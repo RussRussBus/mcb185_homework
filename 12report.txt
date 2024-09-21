@@ -1,0 +1,17 @@
+Sat Sep 21 01:23:44 PDT 2024
+user: russell
+home: /Users/russell
+shell: /bin/zsh
+pwd: /Users/russell/Code/mcb185_homework
+path: /opt/anaconda3/bin:/opt/anaconda3/condabin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+Darwin CARLOSs-MacBook-Pro.local 21.6.0 Darwin Kernel Version 21.6.0: Mon Jun 24 00:56:10 PDT 2024; root:xnu-8020.240.18.709.2~1/RELEASE_X86_64 x86_64
+Python 3.12.4
+/Users/russell/Code
+/Users/russell/Code/mcb185_homework
+/Users/russell/Code/mcb185_homework/.git
+/Users/russell/Code/MCB185
+/Users/russell/Code/MCB185/ref
+/Users/russell/Code/MCB185/course
+/Users/russell/Code/MCB185/.git
+/Users/russell/Code/MCB185/data
+/Users/russell/Code/MCB185/src
