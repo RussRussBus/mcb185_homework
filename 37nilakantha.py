@@ -1,4 +1,4 @@
-# 37nilakantha.py bt Russell Hong
+# 37nilakantha.py by Russell Hong
 
 import math
 
