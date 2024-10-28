@@ -16,4 +16,3 @@ if total != 1: sys.exit('probabilites do not sum to 1')
 for n in prob:
 	h -= n * math.log2(n)
 print(h)
-""
